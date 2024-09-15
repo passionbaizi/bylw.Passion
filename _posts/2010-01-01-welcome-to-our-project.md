@@ -6,9 +6,9 @@ subtitle: 'Here is a short description of our project.'
 description: >-
   Project description.
 image: >-
-  /assets/img/bg.jpg
+  /assets/img/bg_bk.jpg
 optimized_image: >-
-  /assets/img/bg.jpg
+  /assets/img/bg_bk.jpg
 category: blog
 tags:
   - welcome
