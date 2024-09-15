@@ -1,7 +1,7 @@
 ---
-date: 2019-05-16 23:48:05
+date: 2024-09-15 13:48:05
 layout: post
-title: Welcome to our project <font color="#ed1c24">bylw.Passion</font>!
+title: Welcome to our project!
 subtitle: 'Here is a short description of our project.'
 description: >-
   Project description.
